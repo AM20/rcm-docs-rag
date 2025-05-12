@@ -7,7 +7,7 @@
 
 # This project was generated with [Stagehand](https://github.com/browserbase/stagehand).
 
-You can scaffold your own web agent with:
+
 
 ```bash
 npx create-browser-app
